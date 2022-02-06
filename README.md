@@ -1,2 +1,2 @@
 # Prevent-dissasembly-and-debugging
-Program with increased security settings
+Test project for getting into the bases of insformation security.
