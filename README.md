@@ -23,4 +23,4 @@ Unsafe project was modified with such additions:
 - Added some self-modified assembly code;
 - Added macroses for changing unvaluable bytes to assembly instructions;
 
-
+Created for MSVC/Windows Visual Studio compiler.
