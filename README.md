@@ -1,4 +1,4 @@
-# Prevent-dissasembly-and-debugging
+# Prevent dissasembly and debugging
 A test project on the basics of protecting software from debugging, disassembly and modification.
 
 
